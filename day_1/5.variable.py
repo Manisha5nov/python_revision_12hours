@@ -6,6 +6,7 @@
 # and a type that defines the kind of data they can hold (e.g., integer, string, boolean).  
 
 
+
 name="ram"
 age=25
 hight=5.9
