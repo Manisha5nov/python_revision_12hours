@@ -1,7 +1,7 @@
 '''What is Arithmetic?
 Arithmetic operations are the basic mathematical operations that can be performed on numbers.
 These include addition(+), subtraction(-), multiplication(*),division(/), and modulus(%),floor division(//).
- 
+
 '''
 num1=int(input("enter first number ="))
 num2=int(input("enter second number ="))
