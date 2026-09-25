@@ -16,4 +16,5 @@
 # 3. Mapping Type: This includes dictionaries (dict), which are used to store key-value pairs.
 #    - Example:
 #      - dict: {'name': 'Alice', 'age': 30}, {'fruit': 'apple', 'color': 'red'}
-     
+
+
