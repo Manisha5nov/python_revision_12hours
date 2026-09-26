@@ -22,3 +22,4 @@ if order==4:
     amount=qut*80
     print(f"your total amount ={amount}")
     print("Thanks for visit my restorent")
+
