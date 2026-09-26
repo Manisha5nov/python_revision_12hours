@@ -7,3 +7,4 @@ if num1 > num2:
     print(f"{num1} is greter than {num2}")
 else:
     print(f"{num2} is greter than {num1}")
+    
