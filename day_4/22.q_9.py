@@ -16,3 +16,4 @@ if phy > 33 or che >33:
     print("pass")
 else:
     print("fail")
+    
