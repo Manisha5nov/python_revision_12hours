@@ -10,3 +10,4 @@ if age>=18:
         print("yor are not eligibal for this job")
 else:
     print("you are too young to apply")
+    
