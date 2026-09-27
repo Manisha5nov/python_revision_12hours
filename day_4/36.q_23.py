@@ -14,3 +14,4 @@ if num==p:
     print("palindrom")
 else:
     print("not palindrom")
+    
