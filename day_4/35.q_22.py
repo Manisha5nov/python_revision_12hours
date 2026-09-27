@@ -14,3 +14,4 @@ if num==sum:
     print("armstrong number")
 else:
     print("not armstrong number")
+    
