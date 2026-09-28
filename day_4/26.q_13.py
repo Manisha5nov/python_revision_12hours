@@ -10,7 +10,7 @@ if order==1:
     amount=qut*100
     print(f"your total amount ={amount}")
     print("Thanks for visit my restorent")
-
+ 
 if order==2:
     qut=int(input("enter your quintity ="))
     amount=qut*50
