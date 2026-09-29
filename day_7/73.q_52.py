@@ -8,3 +8,4 @@ if sum==num:
     print(num,"is an armstrong number")
 else:
     print(num,"is not an armstrong number")
+    
