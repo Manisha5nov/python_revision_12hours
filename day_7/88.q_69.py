@@ -8,4 +8,4 @@ if sum_div==num:
     print(f"perfect number = {sum_div}")
 else:
     print("not perfect number ")
-    
+
