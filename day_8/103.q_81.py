@@ -4,3 +4,4 @@ for i in range(6,0,-1):
     for k in range(6,i-1,-1):
         print(k,end="")    
     print()
+    
