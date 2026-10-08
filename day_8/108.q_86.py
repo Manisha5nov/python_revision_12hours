@@ -11,4 +11,4 @@ for i in range(n):
         else:
             print(i, end="")
     print()
-    
+
