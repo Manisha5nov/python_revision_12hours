@@ -16,3 +16,4 @@ for i in range(n*2):
             if j < (2*n-i):
                 print("*", end=" ")
     print()
+    
