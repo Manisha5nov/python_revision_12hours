@@ -6,3 +6,4 @@ for i in range(1,n):
         print(num,end=" ")
         num+=1
     print()
+    
