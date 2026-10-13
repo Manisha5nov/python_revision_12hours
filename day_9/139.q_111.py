@@ -12,3 +12,4 @@ def is_palindrome(num):
 
 n = int(input("Enter a number: "))
 print(is_palindrome(n))
+
