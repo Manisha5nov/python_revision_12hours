@@ -5,3 +5,4 @@
 string = "Hello, World!"
 last_character = string[-1]
 print("The last character of the string is:", last_character)
+
