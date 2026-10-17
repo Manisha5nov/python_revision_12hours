@@ -5,3 +5,4 @@
 string = "Hello, World!"
 first_character = string[0]     
 print("The first character of the string is:", first_character)
+
