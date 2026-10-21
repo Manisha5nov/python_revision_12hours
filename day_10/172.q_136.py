@@ -8,3 +8,4 @@ if len(string) % 2 == 0:
 else:
     middle_characters = string[middle_index]
 print("Middle character(s):", middle_characters)
+
